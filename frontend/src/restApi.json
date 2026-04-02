@@ -5,38 +5,38 @@
                 "id": 1,
                 "image": "./quality_food.svg",
                 "title": "QUALITY FOOD",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "description": "Fresh ingredients, expert chefs, and mouthwatering recipes come together to serve you delicious, hygienic, and unforgettable food every single time." 
             },
             {
                 "id": 2,
                 "image": "./super_taste.svg",
-                "title": "SUPER TASTE",
-                "description": "Lorem ipsum dolor sit amet consectetur, adipisicing sit amet elit. Sit voluptates quaerat pariatur." 
+                "title": "Taste Made Just for You",
+                "description": "Every dish is crafted with love, inspired by your cravings, seasoned to perfection, and served with warmth—just the way you like it." 
             },
             {
                 "id": 3,
                 "image": "./fast_delivery.svg",
-                "title": "FAST DELIVERY",
-                "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis repellendus officia qui repellat." 
+                "title": "FAST SERVING",
+                "description": "From our kitchen to your plate—speed meets satisfaction. Experience rapid service with gourmet flavors, every single time." 
             }
         ],
         "dishes": [
             {
                 "id": 1,
                 "image": "./dinner1.jpeg",
-                "title": "ROASTED LAMB RUMP",
+                "title": "SKDC ROASTED GOBHI",
                 "category": "Dinner"
             },
             {
                 "id": 2,
                 "image": "./dinner2.png",
-                "title": "CITRUS CURED SALMON",
+                "title": "HONEY CURED SALMON",
                 "category": "Dinner"
             },
             {
                 "id": 3,
                 "image": "./breakfast1.png",
-                "title": "PAN SEARED SEA BASS",
+                "title": "SKDC SPECIAL SALAD",
                 "category": "Breakfast"
             },
             {
@@ -48,25 +48,25 @@
             {
                 "id": 5,
                 "image": "./lunch1.png",
-                "title": "BEEF BURGER MEAL",
+                "title": "NONVEG BURGER MEAL",
                 "category": "Lunch"
             },
             {
                 "id": 6,
                 "image": "./dinner4.png",
-                "title": "MUSSELS SOUP",
+                "title": "SKDC PANEER & GOBHI MANCHURIAN",
                 "category": "Dinner"
             },
             {
                 "id": 7,
                 "image": "./dinner5.png",
-                "title": "ITALIAN SPAGHETTI",
+                "title": "SKDC NOODLES & BABY CORN SPECIAL",
                 "category": "Dinner"
             },
             {
                 "id": 8,
                 "image": "./dinner6.png",
-                "title": "GRILLED FISH",
+                "title": "SPECIAL FRIED FISH",
                 "category": "Dinner"
             }
         ],
@@ -74,55 +74,33 @@
             {
                 "id": 1,
                 "image": "./team_member_1.png",
-                "name": "JOHNATHAN TYLER",
-                "designation": "Founder & Head Chef"
+                "name": "Mr. SHIVAM SINGH",
+                "designation": "Founder & CEO"
             },
             {
                 "id": 2,
                 "image": "./team_member_2.png",
-                "name": "WADE WARREN",
-                "designation": "Sous Chef"
+                "name": "Mrs.DEEPA D",
+                "designation": "Manager"
             },
             {
                 "id": 3,
                 "image": "./team_member_3.png",
-                "name": "JHON DOE",
-                "designation": "Fast Food Chef"
+                "name": "Mr. NAGARAJ R",
+                "designation": "Senior chief"
             },
             {
                 "id": 4,
                 "image": "./team_member_4.png",
-                "name": "ALEX COAL",
-                "designation": "Senior Chef"
+                "name": "Mr. KIRAN KUMAR",
+                "designation": "Dessert specialist"
             }
         ],
-        "testimonials": [
-            {
-                "id": 1,
-                "image": "./review1.png",
-                "description": "Morbi nulla nec dui lacus, in. Libero in pretium metus massa. Sodales dignissim vitae mauris varius faucibus. Eleifend dui, non laoreet ac luctus facilisis diam. Enim scelerisque vel at id viverra tellus.",
-                "rating": 4,
-                "userName": "Jane Cooper"
-            },
-            {
-                "id": 2,
-                "image": "./review2.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
-                "rating": 4.5,
-                "userName": "Esther Howard"
-            },
-            {
-                "id": 3,
-                "image": "./review3.png",
-                "description": "Tortor vel nunc netus pharetra enim, enim dolor mauris in. Sit nam fringilla in egestas. Libero condimentum quis in vulputate adipiscing venenatis augue. Venenatis faucibus.",
-                "rating": 5,
-                "userName": "Guy Hawkins"
-            }
-        ],
+
         "who_we_are": [
             {
                 "id": 1,
-                "number": "14",
+                "number": "5",
                 "title": "Restaurants"
             },
             {
@@ -132,12 +110,12 @@
             },
             {
                 "id": 3,
-                "number": "08",
+                "number": "10",
                 "title": "Years Of Experience"
             },
             {
                 "id": 4,
-                "number": "200",
+                "number": "50+",
                 "title": "Food Dishes"
             }
         ],

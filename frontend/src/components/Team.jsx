@@ -7,9 +7,8 @@ const Team = () => {
         <div className="heading_section">
           <h1 className="heading">OUR TEAM</h1>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae
-            fugit dicta, ipsum impedit quam laboriosam quas doloremque quia
-            perferendis laborum.
+          We’re not just staff — we are the 
+          heartbeat and pride of SKDC Dhaba!
           </p>
         </div>
         <div className="team_container">

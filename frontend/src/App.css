@@ -344,7 +344,9 @@ nav svg {
   justify-content: space-evenly;
 }
 .about .container .banner img {
-  width: 100%;
+  width: 80%;
+  border-radius: 15%;
+
 }
 .heading {
   font-weight: 200;
@@ -385,7 +387,7 @@ nav svg {
 }
 .about .container .banner a:hover {
   color: #fff;
-  background: #111;
+  background: #e757fd;
   transition: ease-in-out 0.3s;
 }
 .about .container .banner a:hover span {
