@@ -17,3 +17,4 @@ Add payment at their show a message to sent mobile number or email urs booking s
 Add qr code to payment
 One gmail not book multiple table popup is there not allowed
 Pay Now button to request ₹199 for table booking confirmation
+ram ram
